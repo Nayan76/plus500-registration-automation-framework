@@ -1,0 +1,7 @@
+target/
+*.log
+*.class
+screenshots/
+excel/
+.idea/
+*.iml
