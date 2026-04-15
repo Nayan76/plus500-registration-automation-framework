@@ -3,7 +3,8 @@
 <suite name="Plus500 Suite">
     <test name="EndToEnd Test">
         <classes>
-            <class name="com.plus500.automation.tests.RegistrationTest"/>
+            <class name="com.plus500.automation.tests.RegistrationFlowTest"/>
+            <class name="com.plus500.automation.tests.NavigationTest"/>
         </classes>
     </test>
 </suite>
